@@ -43,7 +43,7 @@ Desenvolvi um sistema em PHP e MySQL para gerenciamento de documentação dentro
 
 Sinta-se à vontade para entrar em contato comigo para discussões, colaborações ou feedback.
 
-[![Linkedin: seu-linkedin](https://img.shields.io/badge/-seu--nome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=seu-linkedin)](https://www.linkedin.com/in/seu-linkedin/)
-[![GitHub followers](https://img.shields.io/github/followers/seu-usuario.svg?style=social)](https://github.com/seu-usuario?tab=followers)
+[![Linkedin: seu-linkedin](https://img.shields.io/badge/-seu--nome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=seu-linkedin)]([https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/engdanilofranco/))
+[![GitHub followers](https://img.shields.io/github/followers/seu-usuario.svg?style=social)](https://github.com/daniilooo?tab=followers)
 
 Espero que meus projetos sejam úteis! 😊
