@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá! 👋 Sou Danilo, engenheiro civil por formação e profissional de análise e desenvolvimento de sistemas, com 34 anos de idade. Atualmente, sou desenvolvedor backend em uma empresa de logística, onde sou responsável por conduzir o desenvolvimento de diversas ferramentas, desde a concepção até a implementação.
+Olá! 👋 Sou [Seu Nome], engenheiro civil e profissional de análise e desenvolvimento de sistemas, com 34 anos de idade. Atualmente, sou desenvolvedor backend em uma empresa de logística, onde sou responsável por conduzir o desenvolvimento de diversas ferramentas, desde a concepção até a implementação.
 
 ## Tecnologias que eu trabalho
 
@@ -43,7 +43,7 @@ Desenvolvi um sistema em PHP e MySQL para gerenciamento de documentação dentro
 
 Sinta-se à vontade para entrar em contato comigo para discussões, colaborações ou feedback.
 
-[![Linkedin: seu-linkedin](https://img.shields.io/badge/-seu--nome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=seu-linkedin)]([https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/engdanilofranco/))
-[![GitHub followers](https://img.shields.io/github/followers/seu-usuario.svg?style=social)](https://github.com/daniilooo?tab=followers)
+[![Linkedin: seu-linkedin](https://img.shields.io/badge/Danilo-Franco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=engdanilofranco)](https://www.linkedin.com/in/engdanilofranco/)
+[![GitHub followers](https://img.shields.io/github/followers/daniilooo.svg?style=social)](https://github.com/daniiilooo?tab=followers)
 
 Espero que meus projetos sejam úteis! 😊
