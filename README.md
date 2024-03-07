@@ -11,7 +11,47 @@ Olá! 👋 Sou Danilo, engenheiro civil e profissional de análise e desenvolvim
 
 ## Projetos Principais
 
-### 1. eCheck - Sistema de Checklists para Transporte de Produtos Químicos
+### 1. eCheck-in - sistema para controle de presença em locais de atendimento e controle de rondas
+
+Atualmente o eChekein é mue principal projeto. Atuo nele dês de a idealização, arquitetura, modelagem, desenvolvimento do banco de dados e execução do projeto em si.
+O sistema inicialmete vai rodar dentro da empresa onde trabalho atualmente com a seguinte arquitetura em nível usuário:
+
+Sistema de gerenciamento e administração desenvolvido utilizando as seguintes tecnologias para frontend:
+- HTML
+- CSS
+- Bootstrap
+- Javascrip
+
+Para o backend estou utilizando:
+- PHP
+
+Com banco de dados:
+- MySql
+
+O cliente (app que vai rodar nos celulares dos rondantes para leitura dos QrCodes) será desenvolvido em JAVA, utilizando um base de dados SQLITE (para contingencia). 
+A comunicação do cliente com o banco de dados será feita através de uma API em PHP, utilizando protocolo HTTP.
+
+# Resumo de tecnologias utilizadas:
+
+- HTML
+- CSS
+- PHP
+- JAVA
+- MySQL
+- SQLITE
+
+#### Tecnologias Utilizadas:
+
+- Android (Java) para o aplicativo em coletores
+- API desenvolvida em C#
+- Banco de dados SQLite nos coletores
+- Banco de dados SQL Server no servidor
+
+[![GitHub stars](https://img.shields.io/github/stars/daniilooo/echeckin.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/daniilooo/echeckin.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/daniilooo/echeckin.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/watchers)
+
+### 2. eCheck - Sistema de Checklists para Transporte de Produtos Químicos
 
 O eCheck é o meu principal projeto, desenvolvido para otimizar e tornar mais eficiente o processo de checklists de carregamento e descarregamento no transporte de produtos químicos em uma grande empresa petroquímica do Brasil.
 
@@ -26,7 +66,7 @@ O eCheck é o meu principal projeto, desenvolvido para otimizar e tornar mais ef
 [![GitHub forks](https://img.shields.io/github/forks/seu-usuario/seu-repositorio.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/network)
 [![GitHub watchers](https://img.shields.io/github/watchers/seu-usuario/seu-repositorio.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/watchers)
 
-### 2. Sistema de Gerenciamento de Documentação para Armazéns
+### 3. Sistema de Gerenciamento de Documentação para Armazéns
 
 Desenvolvi um sistema em PHP e MySQL para gerenciamento de documentação dentro dos armazéns da empresa. Este projeto visa substituir o uso excessivo de papel, comumente encontrado nos armazéns, facilitando a busca por informações essenciais.
 
