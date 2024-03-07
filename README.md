@@ -31,7 +31,7 @@ Com banco de dados:
 O cliente (app que vai rodar nos celulares dos rondantes para leitura dos QrCodes) será desenvolvido em JAVA, utilizando um base de dados SQLITE (para contingencia). 
 A comunicação do cliente com o banco de dados será feita através de uma API em PHP, utilizando protocolo HTTP.
 
-# Resumo de tecnologias utilizadas:
+##### Resumo de tecnologias utilizadas:
 
 - HTML
 - CSS
@@ -47,9 +47,9 @@ A comunicação do cliente com o banco de dados será feita através de uma API 
 - Banco de dados SQLite nos coletores
 - Banco de dados SQL Server no servidor
 
-[![GitHub stars](https://img.shields.io/github/stars/daniilooo/echeckin.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/daniilooo/echeckin.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/daniilooo/echeckin.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/daniilooo/echeckin.svg?style=social)](https://github.com/daniilooo/echeckin/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/daniilooo/echdaniilooo/echeckineckin.svg?style=social)](https://github.com/daniilooo/echeckin/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/daniilooo/echeckin.svg?style=social)](https://github.com/daniilooo/echeckin/watchers)
 
 ### 2. eCheck - Sistema de Checklists para Transporte de Produtos Químicos
 
