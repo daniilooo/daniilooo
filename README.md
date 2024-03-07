@@ -2,11 +2,11 @@
 
 ## Sobre mim
 
-Olá! 👋 Sou Danilo, engenheiro civil e profissional de análise e desenvolvimento de sistemas, com 34 anos de idade. Atualmente, sou desenvolvedor backend em uma empresa de logística, onde sou responsável por conduzir o desenvolvimento de diversas ferramentas, desde a concepção até a implementação.
+Olá! 👋 Sou Danilo, engenheiro civil por formação e profissional de análise e desenvolvimento de sistemas, com 34 anos de idade. Atualmente, sou desenvolvedor backend em uma empresa de logística, onde sou responsável por conduzir o desenvolvimento de diversas ferramentas, desde a concepção até a implementação.
 
 ## Tecnologias que eu trabalho
 
-- Linguagens: Java, C#, PHP
+- Linguagens: Java, C#, PHP, Javascript
 - Bancos de Dados: SQL Server, MySQL, SQLite
 
 ## Projetos Principais
@@ -40,15 +40,8 @@ A comunicação do cliente com o banco de dados será feita através de uma API 
 - MySQL
 - SQLITE
 
-#### Tecnologias Utilizadas:
-
-- Android (Java) para o aplicativo em coletores
-- API desenvolvida em C#
-- Banco de dados SQLite nos coletores
-- Banco de dados SQL Server no servidor
-
 [![GitHub stars](https://img.shields.io/github/stars/daniilooo/echeckin.svg?style=social)](https://github.com/daniilooo/echeckin/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/daniilooo/echdaniilooo/echeckineckin.svg?style=social)](https://github.com/daniilooo/echeckin/network)
+[![GitHub forks](https://img.shields.io/github/forks/daniilooo/echeckin.svg?style=social)](https://github.com/daniilooo/echeckin/network)
 [![GitHub watchers](https://img.shields.io/github/watchers/daniilooo/echeckin.svg?style=social)](https://github.com/daniilooo/echeckin/watchers)
 
 ### 2. eCheck - Sistema de Checklists para Transporte de Produtos Químicos
