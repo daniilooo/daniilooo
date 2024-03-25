@@ -68,9 +68,10 @@ Desenvolvi um sistema em PHP e MySQL para gerenciamento de documentação dentro
 - PHP para o desenvolvimento do aplicativo
 - MySQL para o banco de dados
 
-[![GitHub stars](https://img.shields.io/github/stars/seu-usuario/seu-repositorio.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/seu-usuario/seu-repositorio.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/seu-usuario/seu-repositorio.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/watchers)
+
+[![GitHub stars](https://img.shields.io/github/stars/daniilooo/efispq2.0.svg?style=social)](https://github.com/daniilooo/efispq2.0/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/daniilooo/efispq2.0.svg?style=social)](https://github.com/daniilooo/efispq2.0/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/daniilooo/efispq2.0.svg?style=social)](https://github.com/daniilooo/efispq2.0/watchers)
 
 ## Contato
 
