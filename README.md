@@ -1,83 +1,114 @@
-# README
+<h2 align="left">👋 Olá! Eu sou o Danilo Franco</h2>
 
-## Sobre mim
+###
 
-Olá! 👋 Sou Danilo, engenheiro civil por formação e profissional de análise e desenvolvimento de sistemas, com 34 anos de idade. Atualmente, sou desenvolvedor backend em uma empresa de logística, onde sou responsável por conduzir o desenvolvimento de diversas ferramentas, desde a concepção até a implementação.
+<p align="left">🎯 Desenvolvedor Back-end apaixonado por construir soluções escaláveis, performáticas e com código limpo.</p>
 
-## Tecnologias que eu trabalho
+###
 
-- Linguagens: Java, C#, PHP, Javascript
-- Bancos de Dados: SQL Server, MySQL, SQLite
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniilooo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniilooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## Projetos Principais
+###
 
-### 1. eCheck-in - sistema para controle de presença em locais de atendimento e controle de rondas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-Atualmente o eChekein é mue principal projeto. Atuo nele dês de a idealização, arquitetura, modelagem, desenvolvimento do banco de dados e execução do projeto em si.
-O sistema inicialmete vai rodar dentro da empresa onde trabalho atualmente com a seguinte arquitetura em nível usuário:
+###
 
-Sistema de gerenciamento e administração desenvolvido utilizando as seguintes tecnologias para frontend:
-- HTML
-- CSS
-- Bootstrap
-- Javascrip
+<div align="left">
+  <a href="https://www.linkedin.com/in/engdanilofranco/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="mailto:engdanilofranco@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="instagram.com/_danilo.franco"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+</div>
 
-Para o backend estou utilizando:
-- PHP
+###
 
-Com banco de dados:
-- MySql
+<h3 align="left">Sobre mim</h3>
 
-O cliente (app que vai rodar nos celulares dos rondantes para leitura dos QrCodes) será desenvolvido em JAVA, utilizando um base de dados SQLITE (para contingencia). 
-A comunicação do cliente com o banco de dados será feita através de uma API em PHP, utilizando protocolo HTTP.
+###
 
-##### Resumo de tecnologias utilizadas:
+<p align="left">Sou um Desenvolvedor Back-end com sólida experiência na construção de sistemas escaláveis, microsserviços e integração de APIs RESTful e SOAP. Tenho vivência com múltiplas linguagens, frameworks e tecnologias como:</p>
 
-- HTML
-- CSS
-- PHP
-- JAVA
-- MySQL
-- SQLITE
+###
 
-[![GitHub stars](https://img.shields.io/github/stars/daniilooo/echeckin.svg?style=social)](https://github.com/daniilooo/echeckin/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/daniilooo/echeckin.svg?style=social)](https://github.com/daniilooo/echeckin/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/daniilooo/echeckin.svg?style=social)](https://github.com/daniilooo/echeckin/watchers)
+<img align="right" height="150" src="https://i.imgflip.com/9q4k0e.gif"  />
 
-### 2. eCheck - Sistema de Checklists para Transporte de Produtos Químicos
+###
 
-O eCheck é o meu principal projeto, desenvolvido para otimizar e tornar mais eficiente o processo de checklists de carregamento e descarregamento no transporte de produtos químicos em uma grande empresa petroquímica do Brasil.
+<p align="left">- <strong>Linguagens</strong>: PHP (Laravel), Java (Spring Boot, Spring MVC), C#<br>- <strong>Arquitetura</strong>: MVC, Microsserviços, Clean Architecture<br>- <strong>Boas práticas</strong>: Clean Code, SOLID, Design Patterns<br>- <strong>Bancos de dados</strong>: MySQL, PostgreSQL, SQL Server, MongoDB<br>- <strong>DevOps</strong>: Docker, GitHub Actions, GitLab CI/CD, AWS (Lambda, ECS, S3)<br>- <strong>Mensageria</strong>: Kafka, RabbitMQ, Beanstalk<br>- <strong>Monitoramento</strong>: Grafana, observabilidade de aplicações</p>
 
-#### Tecnologias Utilizadas:
+###
 
-- Android (Java) para o aplicativo em coletores
-- API desenvolvida em C#
-- Banco de dados SQLite nos coletores
-- Banco de dados SQL Server no servidor
+<br clear="both">
 
-[![GitHub stars](https://img.shields.io/github/stars/seu-usuario/seu-repositorio.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/seu-usuario/seu-repositorio.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/seu-usuario/seu-repositorio.svg?style=social)](https://github.com/seu-usuario/seu-repositorio/watchers)
+<img src="https://raw.githubusercontent.com/daniilooo/daniilooo/output/snake.svg" alt="Snake animation" />
 
-### 3. Sistema de Gerenciamento de Documentação para Armazéns
+###
 
-Desenvolvi um sistema em PHP e MySQL para gerenciamento de documentação dentro dos armazéns da empresa. Este projeto visa substituir o uso excessivo de papel, comumente encontrado nos armazéns, facilitando a busca por informações essenciais.
+<h3 align="left">🌱 Em constante evolução...</h3>
 
-#### Tecnologias Utilizadas:
+###
 
-- PHP para o desenvolvimento do aplicativo
-- MySQL para o banco de dados
+<p align="left">Atualmente focado em:<br>- Desenvolvimento de APIs escaláveis com Laravel e Spring Boot<br>- Práticas de DevOps e Cloud AWS<br>- Clean Architecture para projetos corporativos<br>- Projetos pessoais de automação, segurança e eficiência</p>
 
+###
 
-[![GitHub stars](https://img.shields.io/github/stars/daniilooo/efispq2.0.svg?style=social)](https://github.com/daniilooo/efispq2.0/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/daniilooo/efispq2.0.svg?style=social)](https://github.com/daniilooo/efispq2.0/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/daniilooo/efispq2.0.svg?style=social)](https://github.com/daniilooo/efispq2.0/watchers)
+<h3 align="left">📂 Repositórios em destaque</h3>
 
-## Contato
+###
 
-Sinta-se à vontade para entrar em contato comigo para discussões, colaborações ou feedback.
+<p align="left">✨ Em breve adicionarei projetos reais desenvolvidos com <strong>Java</strong>, <strong>PHP (Laravel)</strong> e <strong>Spring Boot</strong>, utilizando padrões de arquitetura, testes e integração contínua. Fique de olho!</p>
 
-[![Linkedin: seu-linkedin](https://img.shields.io/badge/Danilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=engdanilofranco)](https://www.linkedin.com/in/engdanilofranco/)
-[![GitHub followers](https://img.shields.io/github/followers/daniilooo.svg?style=social)](https://github.com/daniiilooo?tab=followers)
+###
 
-Espero que meus projetos sejam úteis! 😊
+<h3 align="left">📫 Vamos conversar?</h3>
+
+###
+
+<p align="left">Se quiser bater um papo sobre desenvolvimento, arquitetura de software ou colaboração em projetos, me chama no <a href="https://www.linkedin.com/in/engdanilofranco">[LinkedIn]</a> ou manda um <a href="mailto:engdanilofranco@gmail.com">e-mail</a>. 🚀</p>
+
+###
+
+<p align="left"> <blockquote cite="#">“Simplicidade é a sofisticação máxima.” – Leonardo da Vinci</blockquote></p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/9q4k0e.gif"  />
+</div>
+
+###
