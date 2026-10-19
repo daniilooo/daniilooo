@@ -1,114 +1,114 @@
-<h2 align="left">👋 Olá! Eu sou o Danilo Franco</h2>
+<div align="center">
 
-###
+# Danilo Franco
 
-<p align="left">🎯 Desenvolvedor Back-end apaixonado por construir soluções escaláveis, performáticas e com código limpo.</p>
+**Engenheiro de Software Sênior · Backend Java · Sistemas Distribuídos · AWS · Engenharia com IA**
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-engdanilofranco-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/engdanilofranco/)
+[![Email](https://img.shields.io/badge/Email-engdanilofranco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engdanilofranco@gmail.com)
+
+São Paulo, Brasil
+
+</div>
+
+---
+
+## Sobre mim
+
+Engenheiro de software sênior especializado em **Java (17/21)** e **Spring Boot**, construindo sistemas **distribuídos, escaláveis e resilientes** para ambientes de alta demanda.
+
+Tenho experiência em modernização de plataformas críticas do setor financeiro: migração de workloads de **mainframe para AWS**, serviços com **mais de 1.000 TPS**, comunicação orientada a eventos com **Apache Kafka** e estratégias de cache com **Redis**.
+
+Nos últimos meses tenho me dedicado a **engenharia de software com IA**: construo ferramentas, plugins e workflows que tornam o desenvolvimento com LLMs mais previsível, econômico em tokens e seguro para projetos reais.
+
+---
+
+## Áreas de atuação
+
+| Backend e arquitetura | Engenharia com IA |
+|---|---|
+| Microsserviços orientados a eventos | Workflows multi-LLM com agentes, skills e hooks |
+| Arquitetura Hexagonal (Ports & Adapters) | Plugins e extensões para Claude Code |
+| Saga Pattern e transações distribuídas | Otimização de contexto e consumo de tokens |
+| Mensageria com Kafka e RabbitMQ | Quality gates para prompts |
+| Alta performance e cache (Redis) | Bases de conhecimento versionadas (Obsidian) |
+| CI/CD, testes, SonarQube e Fortify | Adoção de IA em projetos legados (brownfield) |
+
+---
+
+## Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**guardIAn**](https://github.com/daniilooo/guardIAn) | Portão de qualidade para prompts: intercepta cada prompt antes da LLM, avalia clareza, escopo e resultado esperado, e barra segredos e pedidos vagos. Menos tokens desperdiçados, menos retrabalho. | TypeScript · Node.js |
+| [**ai-project-bootstrap**](https://github.com/daniilooo/ai-project-bootstrap) | Skill para iniciar projetos AI-native: intake guiado, vault Obsidian com regras e decisões, adapters multi-LLM, contratos entre agentes e roadmap com critérios objetivos de entrega. | Skills · Markdown |
+| [**ai-project-brownfield**](https://github.com/daniilooo/ai-project-brownfield) | Prepara projetos existentes para desenvolvimento com IA seguindo o princípio *discover before asking*: inventário baseado em evidências, gates humanos e GitFlow preservado. | Shell · Skills |
+| [**token-saver**](https://github.com/daniilooo/token-saver) | Plugin para Claude Code que substitui saídas longas de terminal por trechos menores e rotulados, guardando a saída completa localmente para recuperação. | JavaScript · Node.js |
+| [**monitor-do-contexto**](https://github.com/daniilooo/monitor-do-contexto) | "Previsão do tempo" da janela de contexto do Claude Code: uso, histórico por turno e alertas visuais numa linha acima do prompt. | TypeScript |
+
+---
+
+## Tecnologias
+
+**Linguagens e frameworks**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Mensageria e cache**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Bancos de dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+**Cloud e DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+**Qualidade e observabilidade**
+
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
+
+**IA aplicada ao desenvolvimento**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/Codex-10A37F?style=flat-square)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniilooo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniilooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/daniilooo/daniilooo/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/engdanilofranco/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="mailto:engdanilofranco@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="instagram.com/_danilo.franco"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
-
-###
-
-<h3 align="left">Sobre mim</h3>
-
-###
-
-<p align="left">Sou um Desenvolvedor Back-end com sólida experiência na construção de sistemas escaláveis, microsserviços e integração de APIs RESTful e SOAP. Tenho vivência com múltiplas linguagens, frameworks e tecnologias como:</p>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/9q4k0e.gif"  />
-
-###
-
-<p align="left">- <strong>Linguagens</strong>: PHP (Laravel), Java (Spring Boot, Spring MVC), C#<br>- <strong>Arquitetura</strong>: MVC, Microsserviços, Clean Architecture<br>- <strong>Boas práticas</strong>: Clean Code, SOLID, Design Patterns<br>- <strong>Bancos de dados</strong>: MySQL, PostgreSQL, SQL Server, MongoDB<br>- <strong>DevOps</strong>: Docker, GitHub Actions, GitLab CI/CD, AWS (Lambda, ECS, S3)<br>- <strong>Mensageria</strong>: Kafka, RabbitMQ, Beanstalk<br>- <strong>Monitoramento</strong>: Grafana, observabilidade de aplicações</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/daniilooo/daniilooo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">🌱 Em constante evolução...</h3>
-
-###
-
-<p align="left">Atualmente focado em:<br>- Desenvolvimento de APIs escaláveis com Laravel e Spring Boot<br>- Práticas de DevOps e Cloud AWS<br>- Clean Architecture para projetos corporativos<br>- Projetos pessoais de automação, segurança e eficiência</p>
-
-###
-
-<h3 align="left">📂 Repositórios em destaque</h3>
-
-###
-
-<p align="left">✨ Em breve adicionarei projetos reais desenvolvidos com <strong>Java</strong>, <strong>PHP (Laravel)</strong> e <strong>Spring Boot</strong>, utilizando padrões de arquitetura, testes e integração contínua. Fique de olho!</p>
-
-###
-
-<h3 align="left">📫 Vamos conversar?</h3>
-
-###
-
-<p align="left">Se quiser bater um papo sobre desenvolvimento, arquitetura de software ou colaboração em projetos, me chama no <a href="https://www.linkedin.com/in/engdanilofranco">[LinkedIn]</a> ou manda um <a href="mailto:engdanilofranco@gmail.com">e-mail</a>. 🚀</p>
-
-###
-
-<p align="left"> <blockquote cite="#">“Simplicidade é a sofisticação máxima.” – Leonardo da Vinci</blockquote></p>
-
-###
+---
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/9q4k0e.gif"  />
-</div>
 
-###
+*Quer conversar sobre arquitetura, sistemas distribuídos, engenharia com IA ou alguma oportunidade? Me chama no [LinkedIn](https://www.linkedin.com/in/engdanilofranco/).*
+
+</div>
